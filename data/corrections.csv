@@ -8,3 +8,4 @@ id,file,line_or_anchor,source_image,before,after,reason,evidence,status,updated_
 0007,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,憂苦ある・二三瓶あれハ,憂苦𛂂る・二三瓶𛂂れハ,「な」の変体仮名を「あ」と誤読していたため,画像36および利用者校正,confirmed,2026-08-03
 0008,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,人を禍ひするヿ實に,人𛂌禍ひするヿ實𛂌,二箇所の助詞「に」が変体仮名で印刷されているため,画像36および利用者校正,confirmed,2026-08-03
 0009,text/normalized/san-suijin-keirin-mondo.md,source-image-36,36,大虚を游飛・憂苦ある・二三瓶あれは・千歳の前より溯り・人を禍ひすること・然れとも,大虚に游飛・憂苦なる・二三瓶なれば・千歳の前に溯り・人に禍ひすること・然れども,変体仮名と省略濁点を正規化し利用者校正を反映,画像36および利用者校正,confirmed,2026-08-03
+0010,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,論ずるヿ・飲むヿ・禍ひするヿ,論ずること・飲むこと・禍ひすること,原字は平仮名の「こと」合字であり片仮名合字U+30FFでの代用は字種が異なるため通常仮名列へ展開,画像36・Unicode Standard・利用者校正,confirmed,2026-08-03
