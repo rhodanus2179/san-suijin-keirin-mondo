@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "本プロジェクトを研究・教育・出版・ソフトウェア等で利用した場合は、次の情報を用いて引用してください。"
+title: "『三酔人経綸問答』オープン翻刻"
+type: dataset
+authors:
+  - name: "san-suijin-keirin-mondo contributors"
+abstract: >-
+  中江兆民『三酔人経綸問答』の公開原典画像を基礎として独自に作成する、
+  検証可能で機械可読な翻刻・正規化テキストデータ。
+license: CC0-1.0
+repository-code: "https://github.com/rhodanus2179/san-suijin-keirin-mondo"
+url: "https://github.com/rhodanus2179/san-suijin-keirin-mondo"
+keywords:
+  - 中江兆民
+  - 三酔人経綸問答
+  - 明治
+  - 翻刻
+  - 日本思想史
+  - デジタル・ヒューマニティーズ
