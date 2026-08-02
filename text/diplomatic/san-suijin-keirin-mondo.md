@@ -54,8 +54,6 @@
 <!-- section: table-of-contents-2 -->
 <!-- transcription-order: columns right-to-left -->
 
-## 三酔人經綸問答目次（續）
-
 ○一部の實地經濟策異日必ず此處より生ずべし　八十七丁
 
 ○高明の才を持し卓偉の見を具ふる者世間果て其人有る耶……有るとも〱　九十丁
