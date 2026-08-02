@@ -3,3 +3,8 @@ id,file,line_or_anchor,source_image,before,after,reason,evidence,status,updated_
 0002,text/normalized/san-suijin-keirin-mondo.md,table-of-contents-1,34,豪傑君少し時を後れたり,豪傑君少々時に後れたり,忠実翻刻の訂正に合わせて繰返し字と変体仮名を正規化,画像34および利用者校正,confirmed,2026-08-02
 0003,text/diplomatic/san-suijin-keirin-mondo.md,table-of-contents-2,35,此一段の文章は少く自慢あり,此一段の文章は少く自慢𛂂り,原画像の再確認により「あ」に似た字形を「な」の変体仮名と判読,画像35・Unicode U+1B082・利用者校正,confirmed,2026-08-02
 0004,text/normalized/san-suijin-keirin-mondo.md,table-of-contents-2,35,此一段の文章は少く自慢あり,此一段の文章は少く自慢なり,忠実翻刻の変体仮名を現行仮名へ正規化,画像35および利用者校正,confirmed,2026-08-02
+0005,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,論ずること・飲むこと・禍ひすること,論ずるヿ・飲むヿ・禍ひするヿ,原画像の再確認により「こと」の合略仮名を判読,画像36および利用者校正,confirmed,2026-08-03
+0006,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,大虛を游飛・千歳の前より溯り,大虛𛂌游飛・千歳の前𛂌溯り,助詞「に」の変体仮名を通常仮名および別助詞と誤読していたため,画像36および利用者校正,confirmed,2026-08-03
+0007,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,憂苦ある・二三瓶あれハ,憂苦𛂂る・二三瓶𛂂れハ,「な」の変体仮名を「あ」と誤読していたため,画像36および利用者校正,confirmed,2026-08-03
+0008,text/diplomatic/san-suijin-keirin-mondo.md,source-image-36,36,人を禍ひするヿ實に,人𛂌禍ひするヿ實𛂌,二箇所の助詞「に」が変体仮名で印刷されているため,画像36および利用者校正,confirmed,2026-08-03
+0009,text/normalized/san-suijin-keirin-mondo.md,source-image-36,36,大虚を游飛・憂苦ある・二三瓶あれは・千歳の前より溯り・人を禍ひすること・然れとも,大虚に游飛・憂苦なる・二三瓶なれば・千歳の前に溯り・人に禍ひすること・然れども,変体仮名と省略濁点を正規化し利用者校正を反映,画像36および利用者校正,confirmed,2026-08-03
