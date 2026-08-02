@@ -1,3 +1,4 @@
 source_image,printed_page,section,status,transcriber,reviewer,notes
 33,,cover,transcribed,ChatGPT,,表紙。右下の薄い鉛筆書入れは印刷本文外として未翻刻
 34,一,table-of-contents-1,transcribed,ChatGPT,,目次前半。右下の寄贈印は無視。第一項の参照丁数「二丁」は印で覆われているためユーザー確認および対校資料により復元
+35,二,table-of-contents-2,transcribed,ChatGPT,,目次後半。踊り字「〱」を保持。二列にまたがる項目は一項目として連結
