@@ -1,0 +1,68 @@
+name: 誤読・判読箇所の報告
+description: 翻刻の誤り、判読困難箇所、異同を報告します
+title: "[翻刻] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ご報告ありがとうございます。原画像へ戻って検証できるよう、分かる範囲で具体的に記載してください。
+
+  - type: input
+    id: file
+    attributes:
+      label: 対象ファイル
+      placeholder: text/diplomatic/san-suijin-keirin-mondo.md
+    validations:
+      required: true
+
+  - type: input
+    id: source-image
+    attributes:
+      label: 主底本の画像番号
+      placeholder: "33"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 現在の翻刻
+      description: 問題があると思われる文字列を記載してください。
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 修正案・判読案
+      description: 不明な場合は「判読不能の可能性」などでも構いません。
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 根拠
+      description: 字形、文脈、対校資料、類例等を記載してください。市販校訂版の本文・注釈は転載しないでください。
+    validations:
+      required: false
+
+  - type: dropdown
+    id: confidence
+    attributes:
+      label: 確信度
+      options:
+        - 高い
+        - 中程度
+        - 低い・検討が必要
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 画像利用条件の確認
+      options:
+        - label: 許諾のない原画像・スクリーンショットを添付していません
+          required: true
