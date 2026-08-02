@@ -75,3 +75,21 @@
 ○南海先生胡麻化せり　百三十六丁
 
 <!-- 「有るとも〱」の〱は縦書き用くの字点。𛂂: U+1B082、「奈」を字母とする「な」の変体仮名。 -->
+
+---
+
+<!-- source-image: 36 -->
+<!-- printed-page: 一 -->
+<!-- section: body -->
+<!-- transcription-order: columns right-to-left -->
+<!-- ownership-stamps: ignored as non-original ownership marks -->
+<!-- restoration: the title and the opening through 「其酒を」 are obscured by ownership stamps; restored by comparison with the NDL copy, pid 783132, PDF page 4 -->
+<!-- continuation: the sentence continues on source-image 37 -->
+
+三醉人經綸問答
+
+南海仙漁著
+
+南海先生性酷た酒を嗜み又酷た政事を論ずることを好む而して其酒を飲むや僅𛂌一二小瓶を釂す時ハ醺然として醉ひ意氣飄搖として大虛を游飛するか如く目怡ひ耳娛み絶て世界中憂苦ある者有るを知らず更𛂌飲むこと二三瓶あれハ心神頓𛂌激昂し思想頻𛂌坌湧し身ハ一斗室の中に在るも眼ハ全世界を通觀し瞬息の間を以て千歳の前より溯り千歳の後𛂌跨り世界の航路を指示し社會の方計を講授して自ら思ふ我は是れ人類處世の道の指南車なり世の政事的の近眼者か妄𛂌羅針盤を執り其船を導きて或ハ礁に觸れしめ或は沙に膠せしめ自ら禍ひし人を禍ひすること實に憫れむ可きの至なりと然れとも先生身ハ斯世界
+
+<!-- 𛂌: U+1B08C、「爾」を字母とする「に」の変体仮名。本ページでは六箇所に使用。 -->
