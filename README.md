@@ -6,7 +6,7 @@
 
 ## 現在の状態
 
-🚧 **初期準備中** — 底本、翻刻方針、データ構造を整備しています。本文の翻刻はこれから開始します。
+🚧 **翻刻開始済み** — 主底本の画像33（表紙）から、忠実翻刻と正規化本文の作成を開始しました。
 
 ## 主底本
 
@@ -59,9 +59,11 @@
 │  └─ README.md
 ├─ text/
 │  ├─ diplomatic/
-│  │  └─ README.md
+│  │  ├─ README.md
+│  │  └─ san-suijin-keirin-mondo.md
 │  └─ normalized/
-│     └─ README.md
+│     ├─ README.md
+│     └─ san-suijin-keirin-mondo.md
 └─ data/
    ├─ page-map.csv
    └─ corrections.csv
